@@ -20,3 +20,14 @@ nav ul {
     display: flex;
     gap: 2rem;
 }
+.about-content {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    margin: 2rem 0;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    border: 3px solid #333;
+}
